@@ -1,0 +1,32 @@
+# R specific
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# R package related
+*.tar.gz
+*.Rcheck/
+
+# Temporary files
+*~
+*.swp
+*.swo
+.DS_Store
+
+# Output files
+*.pdf
+*.html
+*.png
+plots/
+reports/
+
+# IDE specific
+.vscode/
+.idea/
+
+# Data files (optional - uncomment if you don't want to track data)
+# *.csv
+# *.rds
+# *.RData
